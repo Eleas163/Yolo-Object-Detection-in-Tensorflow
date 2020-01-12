@@ -41,18 +41,18 @@ You should see something like this.
 ```
 detection_1.jpg
 ```
-![alt text](https://github.com/Eleas163/yolo-v3/blob/master/data/detection_examples/detection_1.jpg)
+![alt text](https://github.com/heartkilla/yolo-v3/blob/master/data/detection_examples/detection_1.jpg)
 ```
 detection_2.jpg
 ```
-![alt text](https://github.com/Eleas163/yolo-v3/blob/master/data/detection_examples/detection_2.jpg)
+![alt text](https://github.com/heartkilla/yolo-v3/blob/master/data/detection_examples/detection_2.jpg)
 ### Video example
 You can also run the script with video files.
 ```
 python detect.py video 0.5 0.5 data/video/shinjuku.mp4
 ```
 The detections will be saved as `detections.mp4` file.
-![alt text](https://github.com/Eleas163/yolo-v3/blob/master/data/detection_examples/detections.gif)
+![alt text](https://github.com/heartkilla/yolo-v3/blob/master/data/detection_examples/detections.gif)
 
 ## To-Do List
 * Model training
